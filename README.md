@@ -1,4 +1,4 @@
-xpat
-====
+###XPat: when you need a real perfomance
 
-url router in cgo which built to be superfast
+=====
+Simply fast url router in cgo, built with speed in mind.
